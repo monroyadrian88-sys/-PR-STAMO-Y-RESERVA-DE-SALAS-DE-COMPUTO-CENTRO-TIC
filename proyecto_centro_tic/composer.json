@@ -1,0 +1,10 @@
+{
+    "name": "centro-tic/gestion-salas",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
