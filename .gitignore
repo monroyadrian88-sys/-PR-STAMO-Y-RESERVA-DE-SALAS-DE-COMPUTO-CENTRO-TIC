@@ -1,0 +1,14 @@
+# Archivos que Git debe ignorar
+
+# Configuración local con credenciales
+conexion.php
+
+# Dependencias y archivos temporales
+/vendor/
+/node_modules/
+*.log
+
+# Configuración local del editor y del sistema
+.vscode/
+.DS_Store
+Thumbs.db
